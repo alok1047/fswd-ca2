@@ -53,4 +53,3 @@ app.listen(process.env.PORT, () => console.log(`Server running on port http://lo
 
 
 
-// kill -9 $(lsof -t -i :5000)
